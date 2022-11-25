@@ -1,0 +1,22 @@
+Rules of Play 
+
+
+1. Press S can start the game
+
+2. Use left and right arrow keys to control the green bat.
+
+3. Press X to stick the ball when the ball come close to the bat.
+
+4. Press (longer) H to start hacker mode to make the ball stronger.
+
+5. Blue Bricks require 1 hit to kill.
+.
+6. Yellow Bricks require 2 hits to kill. 
+
+7. If all the bricks are cleaned, it's a win.
+
+8. If the ball hit the bottom of the window, it's a loss.
+
+9. Just Enjoy the game.
+
+10. An exe file is downloadable in another branch. 
